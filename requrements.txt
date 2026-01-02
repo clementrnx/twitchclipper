@@ -1,9 +1,8 @@
-streamlit
 opencv-python-headless
+streamlit
 numpy
 openai-whisper
 requests
 streamlink
 Pillow
 edge-tts
-asyncio
