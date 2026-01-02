@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+openai-whisper
+requests
+streamlink
+Pillow
+edge-tts
+asyncio
